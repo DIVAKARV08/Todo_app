@@ -1,6 +1,3 @@
-# This is my first react Todo App
-<img width="1440" alt="React Todo" src="https://user-images.githubusercontent.com/76959234/143773314-41f771e2-43e0-483e-b66c-31e72cb1ef09.png">
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

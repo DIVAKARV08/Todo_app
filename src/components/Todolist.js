@@ -11,8 +11,7 @@ function Todolist() {
         }
         const newtodos=[todo,...todos];
 
-        setTodos(newtodos);  //call back function to set todos sate
-        console.log(...todos); 
+        setTodos(newtodos);  //call back function to set todos state
     }
 
 
